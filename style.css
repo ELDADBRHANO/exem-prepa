@@ -1,0 +1,12 @@
+#div_id{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10vw;
+  
+}
+
+#div_objects{
+  display:grid;
+  grid-template-columns: 1fr 1fr  ;
+  gap: 10vw; 
+}
