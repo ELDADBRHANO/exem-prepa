@@ -21,15 +21,16 @@
 // sortAraayBigToSmall([5,985,21,435,6,7,32,46])
 
 // 4
-let myInput =document.getElementById("input_id") 
-let arrayNames = [];
-function getNamesOfStudentsAndSortThem() {
- if(arrayNames.length < 10){
-   arrayNames.push(myInput.value);
-   myInput.value =""
-  }
-console.log(arrayNames.sort()) 
-}
+// let myInput =document.getElementById("input_id") 
+// let arrayNames = [];
+// function getNamesOfStudentsAndSortThem() {
+//  if(arrayNames.length < 10){
+//    arrayNames.push(myInput.value);
+//    myInput.value =""
+//   }
+
+// console.log(arrayNames.join("-"));
+// }
 
 
 // 5
@@ -43,6 +44,4 @@ console.log(arrayNames.sort())
 // }
 // makeRndArrayNames()
 
-// 6
-let some = arrayNames.join("-")
-console.log(some);
+// 7
